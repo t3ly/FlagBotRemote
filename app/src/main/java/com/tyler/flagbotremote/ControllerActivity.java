@@ -131,6 +131,12 @@ public class ControllerActivity extends Activity{
                 return true;
             }
         });
+
+        fGo.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch
+
+        }
     }
 
     private synchronized void connect(BluetoothDevice tmp){

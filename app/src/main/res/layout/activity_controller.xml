@@ -19,36 +19,106 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_weight="0.33">
+            android:layout_weight="0.3"
+            android:weightSum="1">
 
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_gravity="bottom"
-                android:layout_weight="0.3"></RelativeLayout>
+            <ImageButton
+                android:src="@drawable/flagStart"
+                android:layout_width="40dp"
+                android:layout_height="150dp"
+                android:scaleType="centerInside"
+                android:id="@+id/flagStart"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.5"
+                android:background="#590000" />
+
+            <ImageButton
+                android:src="@drawable/flagStop"
+                android:layout_width="40dp"
+                android:layout_height="150dp"
+                android:scaleType="centerInside"
+                android:id="@+id/flagStop"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.5"
+                android:background="#590000" />
         </LinearLayout>
 
-        <LinearLayout
-            android:orientation="horizontal"
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
+            android:layout_gravity="bottom"
             android:layout_weight="0.3">
 
-        </LinearLayout>
+            <ImageButton
+                android:src="@drawable/dpadforward"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="fitCenter"
+                android:id="@+id/buttonForward"
+                android:layout_above="@+id/buttonRight"
+                android:layout_toLeftOf="@+id/buttonRight"
+                android:layout_toStartOf="@+id/buttonRight" />
 
-        <LinearLayout
+            <ImageButton
+                android:src="@drawable/dpadright"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="fitCenter"
+                android:id="@+id/buttonRight"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/buttonDown"
+                android:layout_toEndOf="@+id/buttonDown" />
+
+            <ImageButton
+                android:src="@drawable/dpadleft"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="fitCenter"
+                android:id="@+id/buttonLeft"
+                android:layout_above="@+id/buttonDown"
+                android:layout_toLeftOf="@+id/buttonDown"
+                android:layout_toStartOf="@+id/buttonDown" />
+
+            <ImageButton
+                android:src="@drawable/dpadbackward"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="fitCenter"
+                android:id="@+id/buttonDown"
+                android:layout_below="@+id/buttonRight"
+                android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0.30"></LinearLayout>
+            android:layout_gravity="center_horizontal">
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:id="@+id/button"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Medium Text"
+            android:text="A Xi Pledge Class Production"
             android:id="@+id/textView"
-            android:layout_gravity="center_horizontal" />
+            android:layout_gravity="center"
+            android:textColor="#e5cf54"
+            android:layout_weight="0.13"
+            android:textAlignment="gravity" />
+
     </LinearLayout>
 </RelativeLayout>
