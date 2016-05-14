@@ -54,12 +54,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:layout_weight="0.5">
+            android:layout_weight="0.9">
 
             <ImageButton
                 android:src="@drawable/dpadforward"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:scaleType="fitCenter"
                 android:id="@+id/buttonForward"
                 android:layout_above="@+id/buttonRight"
@@ -68,8 +68,8 @@
 
             <ImageButton
                 android:src="@drawable/dpadright"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:scaleType="fitCenter"
                 android:id="@+id/buttonRight"
                 android:layout_centerVertical="true"
@@ -78,18 +78,18 @@
 
             <ImageButton
                 android:src="@drawable/dpadleft"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:scaleType="fitCenter"
                 android:id="@+id/buttonLeft"
-                android:layout_above="@+id/buttonDown"
-                android:layout_toLeftOf="@+id/buttonDown"
-                android:layout_toStartOf="@+id/buttonDown" />
+                android:layout_below="@+id/buttonForward"
+                android:layout_toLeftOf="@+id/buttonForward"
+                android:layout_toStartOf="@+id/buttonForward" />
 
             <ImageButton
                 android:src="@drawable/dpadbackward"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:scaleType="fitCenter"
                 android:id="@+id/buttonDown"
                 android:layout_below="@+id/buttonRight"
@@ -97,11 +97,32 @@
 
         </RelativeLayout>
 
-        <Button
-            android:layout_width="match_parent"
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/runPath"
-            android:id="@+id/button" />
+            android:layout_gravity="center_horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recalibrate Flag Left"
+                android:id="@+id/flagleft"
+                android:gravity="center"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_weight="0.5" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recalibrate Flag Right"
+                android:id="@+id/flagright"
+                android:layout_gravity="center"
+                android:layout_weight="0.5" />
+
+        </LinearLayout>
 
     </LinearLayout>
 

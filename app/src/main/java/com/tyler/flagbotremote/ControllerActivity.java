@@ -7,22 +7,26 @@ import android.os.Handler;
 import android.os.Message;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.Toast;
 
 /**
- * Created by Tyler on 5/8/16.
+ * Created by Lambda Class.
+ * Modified by Tyler on 5/8/16.
  */
 public class ControllerActivity extends Activity{
 
     private Handler handler;
 
     private ImageButton bUp, bDown, bRight, bLeft, fGo, fStop;
+    private Button fLeft, fRight;
 
 
     private BluetoothDevice desiredDevice;
     private FlagbotCommand controller;
+    private FlagbotConnectThread connectDrawbot;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +35,7 @@ public class ControllerActivity extends Activity{
 
         init();
         startDPadlisteners();
+        startFlagButtons();
     }
 
     private void init(){
@@ -64,6 +69,8 @@ public class ControllerActivity extends Activity{
         bLeft = (ImageButton)findViewById(R.id.buttonLeft);
         fGo = (ImageButton)findViewById(R.id.flagStart);
         fStop = (ImageButton)findViewById(R.id.flagStop);
+        fLeft = (Button)findViewById(R.id.flagleft);
+        fRight = (Button)findViewById(R.id.flagright);
     }
 
 		/*
@@ -135,24 +142,20 @@ public class ControllerActivity extends Activity{
             }
         });
 
-        fGo.setOnTouchListener(new View.OnTouchListener() {
+
+
+
+    }
+
+    private void startFlagButtons() {
+        fLeft.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
                 switch (event.getAction()) {
                     case MotionEvent.ACTION_DOWN:
-                        controller.flagStart();
+                        controller.flagLeft();
                         break;
-                }
-
-                return true;
-            }
-        });
-
-        fStop.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN:
+                    case MotionEvent.ACTION_UP:
                         controller.flagStop();
                         break;
                 }
@@ -161,6 +164,35 @@ public class ControllerActivity extends Activity{
             }
         });
 
+        fRight.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                switch (event.getAction()) {
+                    case MotionEvent.ACTION_DOWN:
+                        controller.flagRight();
+                        break;
+                    case MotionEvent.ACTION_UP:
+                        controller.flagStop();
+                        break;
+                }
+
+                return true;
+            }
+        });
+
+        fGo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                controller.flagStart();
+            }
+        });
+
+        fStop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                controller.flagStop();
+            }
+        });
     }
 
 		/*
@@ -169,7 +201,7 @@ public class ControllerActivity extends Activity{
 		 */	 
     private synchronized void connect(BluetoothDevice tmp){
         Toast.makeText(getApplicationContext(), "Connecting...", Toast.LENGTH_LONG).show();
-        FlagbotConnectThread connectDrawbot = new FlagbotConnectThread(tmp, handler);
+        connectDrawbot = new FlagbotConnectThread(tmp, handler);
         connectDrawbot.start();
         controller = new FlagbotCommand(connectDrawbot.getBTSocket());
     }

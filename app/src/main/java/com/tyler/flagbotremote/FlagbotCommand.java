@@ -67,4 +67,18 @@ public class FlagbotCommand {
         }
         catch(IOException e){}
     }
+
+    public void flagLeft() {
+        try {
+            sender.write(Constants.FLAG_LEFT);
+        }
+        catch(IOException e) {}
+    }
+
+    public void flagRight() {
+        try {
+            sender.write(Constants.FLAG_RIGHT);
+        }
+        catch(IOException e) {}
+    }
 }

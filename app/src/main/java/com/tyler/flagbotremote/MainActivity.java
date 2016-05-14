@@ -15,6 +15,9 @@ import android.widget.Toast; //showing text box
 import java.util.ArrayList;
 import java.util.Set;
 
+/*
+ * Created by Lambda Class
+ */
 public class MainActivity extends AppCompatActivity {
 
     // Phone bluetooth adapter used to connect to surrounding bluetooth devices
@@ -83,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                System.out.println(((BluetoothDevice)btArray[position]).getName());
                 Intent openController = new Intent(MainActivity.this, ControllerActivity.class);
                 openController.putExtra("DESIRED_DEVICE", (BluetoothDevice) btArray[position]);
                 MainActivity.this.startActivity(openController);

@@ -212,7 +212,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">FlagbotRemote</string>
+    <string name="app_name">VexillumRemote</string>
     <string name="flagogg">flagoff</string>
     <string name="flagon">flagon</string>
     <string name="runPath">Run path</string>

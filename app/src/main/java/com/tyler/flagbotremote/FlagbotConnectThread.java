@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.UUID;
 
 /**
- * Created by Tyler on 5/9/16.
+ * Created by Lambda Class.
  */
 public class FlagbotConnectThread extends Thread {
 
@@ -54,6 +54,13 @@ public class FlagbotConnectThread extends Thread {
 
     public BluetoothSocket getBTSocket(){
         return btSocket;
+    }
+
+    public void cancel(){
+        try {
+            btSocket.close();
+        }
+        catch(IOException e){}
     }
 
 }

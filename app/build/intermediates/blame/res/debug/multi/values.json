@@ -3503,8 +3503,8 @@
                     "startLine": 214,
                     "startColumn": 4,
                     "startOffset": 28570,
-                    "endColumn": 50,
-                    "endOffset": 28616
+                    "endColumn": 51,
+                    "endOffset": 28617
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
@@ -3512,8 +3512,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 50,
-                        "endOffset": 62
+                        "endColumn": 51,
+                        "endOffset": 63
                     }
                 }
             },
@@ -3521,18 +3521,18 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 28621,
+                    "startOffset": 28622,
                     "endColumn": 43,
-                    "endOffset": 28660
+                    "endOffset": 28661
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 148,
+                        "startOffset": 149,
                         "endColumn": 43,
-                        "endOffset": 187
+                        "endOffset": 188
                     }
                 }
             },
@@ -3540,18 +3540,18 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 28665,
+                    "startOffset": 28666,
                     "endColumn": 41,
-                    "endOffset": 28702
+                    "endOffset": 28703
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 192,
+                        "startOffset": 193,
                         "endColumn": 41,
-                        "endOffset": 229
+                        "endOffset": 230
                     }
                 }
             },
@@ -3559,18 +3559,18 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 28707,
+                    "startOffset": 28708,
                     "endColumn": 44,
-                    "endOffset": 28747
+                    "endOffset": 28748
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 234,
+                        "startOffset": 235,
                         "endColumn": 44,
-                        "endOffset": 274
+                        "endOffset": 275
                     }
                 }
             },
@@ -3578,9 +3578,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 28752,
+                    "startOffset": 28753,
                     "endColumn": 70,
-                    "endOffset": 28818
+                    "endOffset": 28819
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3597,18 +3597,18 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 28823,
+                    "startOffset": 28824,
                     "endColumn": 72,
-                    "endOffset": 28891
+                    "endOffset": 28892
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 279,
+                        "startOffset": 280,
                         "endColumn": 72,
-                        "endOffset": 347
+                        "endOffset": 348
                     }
                 }
             },
@@ -3616,18 +3616,18 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 28896,
+                    "startOffset": 28897,
                     "endColumn": 80,
-                    "endOffset": 28972
+                    "endOffset": 28973
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 67,
+                        "startOffset": 68,
                         "endColumn": 80,
-                        "endOffset": 143
+                        "endOffset": 144
                     }
                 }
             },
@@ -3635,9 +3635,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 28977,
+                    "startOffset": 28978,
                     "endColumn": 77,
-                    "endOffset": 29050
+                    "endOffset": 29051
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3654,9 +3654,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 29055,
+                    "startOffset": 29056,
                     "endColumn": 89,
-                    "endOffset": 29140
+                    "endOffset": 29141
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3673,9 +3673,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 29145,
+                    "startOffset": 29146,
                     "endColumn": 87,
-                    "endOffset": 29228
+                    "endOffset": 29229
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3692,9 +3692,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 29233,
+                    "startOffset": 29234,
                     "endColumn": 95,
-                    "endOffset": 29324
+                    "endOffset": 29325
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3711,10 +3711,10 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 29329,
+                    "startOffset": 29330,
                     "endLine": 232,
                     "endColumn": 12,
-                    "endOffset": 29668
+                    "endOffset": 29669
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/values/styles.xml",
@@ -3732,10 +3732,10 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 29673,
+                    "startOffset": 29674,
                     "endLine": 239,
                     "endColumn": 12,
-                    "endOffset": 30169
+                    "endOffset": 30170
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3753,9 +3753,9 @@
                 "to": {
                     "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 30174,
+                    "startOffset": 30175,
                     "endColumn": 88,
-                    "endOffset": 30258
+                    "endOffset": 30259
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3772,10 +3772,10 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 30263,
+                    "startOffset": 30264,
                     "endLine": 244,
                     "endColumn": 12,
-                    "endOffset": 30505
+                    "endOffset": 30506
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3793,10 +3793,10 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 30510,
+                    "startOffset": 30511,
                     "endLine": 248,
                     "endColumn": 12,
-                    "endOffset": 30786
+                    "endOffset": 30787
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3814,10 +3814,10 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 30791,
+                    "startOffset": 30792,
                     "endLine": 253,
                     "endColumn": 12,
-                    "endOffset": 31071
+                    "endOffset": 31072
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3835,10 +3835,10 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 31076,
+                    "startOffset": 31077,
                     "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 31464
+                    "endOffset": 31465
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3856,10 +3856,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 31469,
+                    "startOffset": 31470,
                     "endLine": 266,
                     "endColumn": 12,
-                    "endOffset": 31941
+                    "endOffset": 31942
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3877,10 +3877,10 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 31946,
+                    "startOffset": 31947,
                     "endLine": 270,
                     "endColumn": 12,
-                    "endOffset": 32163
+                    "endOffset": 32164
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3898,10 +3898,10 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 32168,
+                    "startOffset": 32169,
                     "endLine": 274,
                     "endColumn": 12,
-                    "endOffset": 32385
+                    "endOffset": 32386
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3919,10 +3919,10 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 32390,
+                    "startOffset": 32391,
                     "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 32653
+                    "endOffset": 32654
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3940,10 +3940,10 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 32658,
+                    "startOffset": 32659,
                     "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 32880
+                    "endOffset": 32881
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3961,10 +3961,10 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 32885,
+                    "startOffset": 32886,
                     "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 33110
+                    "endOffset": 33111
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -3982,10 +3982,10 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 33115,
+                    "startOffset": 33116,
                     "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 33340
+                    "endOffset": 33341
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4003,10 +4003,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 33345,
+                    "startOffset": 33346,
                     "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 33570
+                    "endOffset": 33571
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4024,10 +4024,10 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 33575,
+                    "startOffset": 33576,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 33800
+                    "endOffset": 33801
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4045,10 +4045,10 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 33805,
+                    "startOffset": 33806,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 34027
+                    "endOffset": 34028
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4066,10 +4066,10 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 34032,
+                    "startOffset": 34033,
                     "endLine": 307,
                     "endColumn": 12,
-                    "endOffset": 34266
+                    "endOffset": 34267
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4087,10 +4087,10 @@
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 34271,
+                    "startOffset": 34272,
                     "endLine": 311,
                     "endColumn": 12,
-                    "endOffset": 34492
+                    "endOffset": 34493
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4108,10 +4108,10 @@
                 "to": {
                     "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 34497,
+                    "startOffset": 34498,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 34737
+                    "endOffset": 34738
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4129,10 +4129,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 34742,
+                    "startOffset": 34743,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 34867
+                    "endOffset": 34868
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4150,10 +4150,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 34872,
+                    "startOffset": 34873,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 34997
+                    "endOffset": 34998
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4171,10 +4171,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 35002,
+                    "startOffset": 35003,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 35227
+                    "endOffset": 35228
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4192,10 +4192,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 35232,
+                    "startOffset": 35233,
                     "endLine": 327,
                     "endColumn": 12,
-                    "endOffset": 35475
+                    "endOffset": 35476
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4213,10 +4213,10 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 35480,
+                    "startOffset": 35481,
                     "endLine": 331,
                     "endColumn": 12,
-                    "endOffset": 35694
+                    "endOffset": 35695
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4234,10 +4234,10 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 35699,
+                    "startOffset": 35700,
                     "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 35977
+                    "endOffset": 35978
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4255,10 +4255,10 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 35982,
+                    "startOffset": 35983,
                     "endLine": 340,
                     "endColumn": 12,
-                    "endOffset": 36185
+                    "endOffset": 36186
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4276,10 +4276,10 @@
                 "to": {
                     "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 36190,
+                    "startOffset": 36191,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 36316
+                    "endOffset": 36317
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4297,10 +4297,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 36321,
+                    "startOffset": 36322,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 36543
+                    "endOffset": 36544
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4318,10 +4318,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 36548,
+                    "startOffset": 36549,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 36789
+                    "endOffset": 36790
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4339,10 +4339,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 36794,
+                    "startOffset": 36795,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 37014
+                    "endOffset": 37015
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4360,10 +4360,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 37019,
+                    "startOffset": 37020,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 37261
+                    "endOffset": 37262
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4381,10 +4381,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 37266,
+                    "startOffset": 37267,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 37482
+                    "endOffset": 37483
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4402,10 +4402,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 37487,
+                    "startOffset": 37488,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 37727
+                    "endOffset": 37728
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4423,10 +4423,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 37732,
+                    "startOffset": 37733,
                     "endLine": 371,
                     "endColumn": 12,
-                    "endOffset": 38001
+                    "endOffset": 38002
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4444,10 +4444,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 38006,
+                    "startOffset": 38007,
                     "endLine": 375,
                     "endColumn": 12,
-                    "endOffset": 38302
+                    "endOffset": 38303
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4465,10 +4465,10 @@
                 "to": {
                     "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 38307,
+                    "startOffset": 38308,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 38626
+                    "endOffset": 38627
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4486,10 +4486,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 38631,
+                    "startOffset": 38632,
                     "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 38917
+                    "endOffset": 38918
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4507,10 +4507,10 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 38922,
+                    "startOffset": 38923,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 39231
+                    "endOffset": 39232
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4528,9 +4528,9 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 39236,
+                    "startOffset": 39237,
                     "endColumn": 136,
-                    "endOffset": 39368
+                    "endOffset": 39369
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4547,9 +4547,9 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 39373,
+                    "startOffset": 39374,
                     "endColumn": 130,
-                    "endOffset": 39499
+                    "endOffset": 39500
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4566,9 +4566,9 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 39504,
+                    "startOffset": 39505,
                     "endColumn": 104,
-                    "endOffset": 39604
+                    "endOffset": 39605
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4585,10 +4585,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 39609,
+                    "startOffset": 39610,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 39808
+                    "endOffset": 39809
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4606,10 +4606,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 39813,
+                    "startOffset": 39814,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 40016
+                    "endOffset": 40017
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4627,10 +4627,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 40021,
+                    "startOffset": 40022,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 40140
+                    "endOffset": 40141
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4648,10 +4648,10 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 40145,
+                    "startOffset": 40146,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 40264
+                    "endOffset": 40265
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4669,9 +4669,9 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 40269,
+                    "startOffset": 40270,
                     "endColumn": 104,
-                    "endOffset": 40369
+                    "endOffset": 40370
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4688,9 +4688,9 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 40374,
+                    "startOffset": 40375,
                     "endColumn": 116,
-                    "endOffset": 40486
+                    "endOffset": 40487
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4707,10 +4707,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 40491,
+                    "startOffset": 40492,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 40700
+                    "endOffset": 40701
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4728,10 +4728,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 40705,
+                    "startOffset": 40706,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 40846
+                    "endOffset": 40847
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4749,10 +4749,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 40851,
+                    "startOffset": 40852,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 40986
+                    "endOffset": 40987
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4770,10 +4770,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 40991,
+                    "startOffset": 40992,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 41072
+                    "endOffset": 41073
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4791,10 +4791,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 41077,
+                    "startOffset": 41078,
                     "endLine": 416,
                     "endColumn": 12,
-                    "endOffset": 41420
+                    "endOffset": 41421
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4812,9 +4812,9 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 41425,
+                    "startOffset": 41426,
                     "endColumn": 87,
-                    "endOffset": 41508
+                    "endOffset": 41509
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4831,10 +4831,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 41513,
+                    "startOffset": 41514,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 41738
+                    "endOffset": 41739
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4852,10 +4852,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 41743,
+                    "startOffset": 41744,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 42156
+                    "endOffset": 42157
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4873,10 +4873,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 42161,
+                    "startOffset": 42162,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 42389
+                    "endOffset": 42390
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4894,9 +4894,9 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 42394,
+                    "startOffset": 42395,
                     "endColumn": 81,
-                    "endOffset": 42471
+                    "endOffset": 42472
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4913,10 +4913,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 42476,
+                    "startOffset": 42477,
                     "endLine": 434,
                     "endColumn": 12,
-                    "endOffset": 42569
+                    "endOffset": 42570
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4934,10 +4934,10 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 42574,
+                    "startOffset": 42575,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 43186
+                    "endOffset": 43187
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4955,9 +4955,9 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 43191,
+                    "startOffset": 43192,
                     "endColumn": 99,
-                    "endOffset": 43286
+                    "endOffset": 43287
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4974,10 +4974,10 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 43291,
+                    "startOffset": 43292,
                     "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 43522
+                    "endOffset": 43523
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4995,10 +4995,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 43527,
+                    "startOffset": 43528,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 43946
+                    "endOffset": 43947
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5016,10 +5016,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 43951,
+                    "startOffset": 43952,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 44185
+                    "endOffset": 44186
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5037,9 +5037,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 44190,
+                    "startOffset": 44191,
                     "endColumn": 93,
-                    "endOffset": 44279
+                    "endOffset": 44280
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5056,9 +5056,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 44284,
+                    "startOffset": 44285,
                     "endColumn": 88,
-                    "endOffset": 44368
+                    "endOffset": 44369
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5075,10 +5075,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 44373,
+                    "startOffset": 44374,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 44605
+                    "endOffset": 44606
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5096,10 +5096,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 44610,
+                    "startOffset": 44611,
                     "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 46556
+                    "endOffset": 46557
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5117,10 +5117,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 46561,
+                    "startOffset": 46562,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 46798
+                    "endOffset": 46799
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5138,10 +5138,10 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 46803,
+                    "startOffset": 46804,
                     "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 48880
+                    "endOffset": 48881
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5159,10 +5159,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 48885,
+                    "startOffset": 48886,
                     "endLine": 676,
                     "endColumn": 12,
-                    "endOffset": 58562
+                    "endOffset": 58563
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5180,10 +5180,10 @@
                 "to": {
                     "startLine": 677,
                     "startColumn": 4,
-                    "startOffset": 58567,
+                    "startOffset": 58568,
                     "endLine": 698,
                     "endColumn": 12,
-                    "endOffset": 59829
+                    "endOffset": 59830
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5201,10 +5201,10 @@
                 "to": {
                     "startLine": 699,
                     "startColumn": 4,
-                    "startOffset": 59834,
+                    "startOffset": 59835,
                     "endLine": 851,
                     "endColumn": 12,
-                    "endOffset": 69621
+                    "endOffset": 69622
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5222,10 +5222,10 @@
                 "to": {
                     "startLine": 852,
                     "startColumn": 4,
-                    "startOffset": 69626,
+                    "startOffset": 69627,
                     "endLine": 873,
                     "endColumn": 12,
-                    "endOffset": 70902
+                    "endOffset": 70903
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5243,10 +5243,10 @@
                 "to": {
                     "startLine": 874,
                     "startColumn": 4,
-                    "startOffset": 70907,
+                    "startOffset": 70908,
                     "endLine": 880,
                     "endColumn": 12,
-                    "endOffset": 71438
+                    "endOffset": 71439
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5264,10 +5264,10 @@
                 "to": {
                     "startLine": 881,
                     "startColumn": 4,
-                    "startOffset": 71443,
+                    "startOffset": 71444,
                     "endLine": 885,
                     "endColumn": 12,
-                    "endOffset": 71768
+                    "endOffset": 71769
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5285,10 +5285,10 @@
                 "to": {
                     "startLine": 886,
                     "startColumn": 4,
-                    "startOffset": 71773,
+                    "startOffset": 71774,
                     "endLine": 906,
                     "endColumn": 12,
-                    "endOffset": 72891
+                    "endOffset": 72892
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5306,10 +5306,10 @@
                 "to": {
                     "startLine": 907,
                     "startColumn": 4,
-                    "startOffset": 72896,
+                    "startOffset": 72897,
                     "endLine": 911,
                     "endColumn": 12,
-                    "endOffset": 73147
+                    "endOffset": 73148
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5327,10 +5327,10 @@
                 "to": {
                     "startLine": 912,
                     "startColumn": 4,
-                    "startOffset": 73152,
+                    "startOffset": 73153,
                     "endLine": 916,
                     "endColumn": 12,
-                    "endOffset": 73383
+                    "endOffset": 73384
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5348,10 +5348,10 @@
                 "to": {
                     "startLine": 917,
                     "startColumn": 4,
-                    "startOffset": 73388,
+                    "startOffset": 73389,
                     "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 73930
+                    "endOffset": 73931
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5369,10 +5369,10 @@
                 "to": {
                     "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 73935,
+                    "startOffset": 73936,
                     "endLine": 935,
                     "endColumn": 12,
-                    "endOffset": 74424
+                    "endOffset": 74425
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5390,10 +5390,10 @@
                 "to": {
                     "startLine": 936,
                     "startColumn": 4,
-                    "startOffset": 74429,
+                    "startOffset": 74430,
                     "endLine": 944,
                     "endColumn": 12,
-                    "endOffset": 75029
+                    "endOffset": 75030
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5411,10 +5411,10 @@
                 "to": {
                     "startLine": 945,
                     "startColumn": 4,
-                    "startOffset": 75034,
+                    "startOffset": 75035,
                     "endLine": 947,
                     "endColumn": 12,
-                    "endOffset": 75177
+                    "endOffset": 75178
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5432,10 +5432,10 @@
                 "to": {
                     "startLine": 948,
                     "startColumn": 4,
-                    "startOffset": 75182,
+                    "startOffset": 75183,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 75765
+                    "endOffset": 75766
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5453,10 +5453,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 75770,
+                    "startOffset": 75771,
                     "endLine": 962,
                     "endColumn": 12,
-                    "endOffset": 76329
+                    "endOffset": 76330
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5474,10 +5474,10 @@
                 "to": {
                     "startLine": 963,
                     "startColumn": 4,
-                    "startOffset": 76334,
+                    "startOffset": 76335,
                     "endLine": 969,
                     "endColumn": 12,
-                    "endOffset": 76704
+                    "endOffset": 76705
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5495,9 +5495,9 @@
                 "to": {
                     "startLine": 970,
                     "startColumn": 4,
-                    "startOffset": 76709,
+                    "startOffset": 76710,
                     "endColumn": 117,
-                    "endOffset": 76822
+                    "endOffset": 76823
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5514,10 +5514,10 @@
                 "to": {
                     "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 76827,
+                    "startOffset": 76828,
                     "endLine": 979,
                     "endColumn": 12,
-                    "endOffset": 77360
+                    "endOffset": 77361
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5535,10 +5535,10 @@
                 "to": {
                     "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 77365,
+                    "startOffset": 77366,
                     "endLine": 982,
                     "endColumn": 12,
-                    "endOffset": 77517
+                    "endOffset": 77518
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5556,10 +5556,10 @@
                 "to": {
                     "startLine": 983,
                     "startColumn": 4,
-                    "startOffset": 77522,
+                    "startOffset": 77523,
                     "endLine": 985,
                     "endColumn": 12,
-                    "endOffset": 77661
+                    "endOffset": 77662
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5577,10 +5577,10 @@
                 "to": {
                     "startLine": 986,
                     "startColumn": 4,
-                    "startOffset": 77666,
+                    "startOffset": 77667,
                     "endLine": 990,
                     "endColumn": 12,
-                    "endOffset": 77981
+                    "endOffset": 77982
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5598,10 +5598,10 @@
                 "to": {
                     "startLine": 991,
                     "startColumn": 4,
-                    "startOffset": 77986,
+                    "startOffset": 77987,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 78237
+                    "endOffset": 78238
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5619,10 +5619,10 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 78242,
+                    "startOffset": 78243,
                     "endLine": 998,
                     "endColumn": 12,
-                    "endOffset": 78407
+                    "endOffset": 78408
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5640,10 +5640,10 @@
                 "to": {
                     "startLine": 999,
                     "startColumn": 4,
-                    "startOffset": 78412,
+                    "startOffset": 78413,
                     "endLine": 1001,
                     "endColumn": 12,
-                    "endOffset": 78548
+                    "endOffset": 78549
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5661,9 +5661,9 @@
                 "to": {
                     "startLine": 1002,
                     "startColumn": 4,
-                    "startOffset": 78553,
+                    "startOffset": 78554,
                     "endColumn": 63,
-                    "endOffset": 78612
+                    "endOffset": 78613
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5680,10 +5680,10 @@
                 "to": {
                     "startLine": 1003,
                     "startColumn": 4,
-                    "startOffset": 78617,
+                    "startOffset": 78618,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 78894
+                    "endOffset": 78895
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5701,10 +5701,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 78899,
+                    "startOffset": 78900,
                     "endLine": 1010,
                     "endColumn": 12,
-                    "endOffset": 79180
+                    "endOffset": 79181
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5722,10 +5722,10 @@
                 "to": {
                     "startLine": 1011,
                     "startColumn": 4,
-                    "startOffset": 79185,
+                    "startOffset": 79186,
                     "endLine": 1020,
                     "endColumn": 12,
-                    "endOffset": 79856
+                    "endOffset": 79857
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5743,10 +5743,10 @@
                 "to": {
                     "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 79861,
+                    "startOffset": 79862,
                     "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 80120
+                    "endOffset": 80121
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5764,10 +5764,10 @@
                 "to": {
                     "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 80125,
+                    "startOffset": 80126,
                     "endLine": 1032,
                     "endColumn": 12,
-                    "endOffset": 80458
+                    "endOffset": 80459
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5785,10 +5785,10 @@
                 "to": {
                     "startLine": 1033,
                     "startColumn": 4,
-                    "startOffset": 80463,
+                    "startOffset": 80464,
                     "endLine": 1038,
                     "endColumn": 12,
-                    "endOffset": 80811
+                    "endOffset": 80812
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5806,9 +5806,9 @@
                 "to": {
                     "startLine": 1039,
                     "startColumn": 4,
-                    "startOffset": 80816,
+                    "startOffset": 80817,
                     "endColumn": 93,
-                    "endOffset": 80905
+                    "endOffset": 80906
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5825,10 +5825,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 80910,
+                    "startOffset": 80911,
                     "endLine": 1042,
                     "endColumn": 12,
-                    "endOffset": 81091
+                    "endOffset": 81092
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5846,10 +5846,10 @@
                 "to": {
                     "startLine": 1043,
                     "startColumn": 4,
-                    "startOffset": 81096,
+                    "startOffset": 81097,
                     "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 81397
+                    "endOffset": 81398
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5867,10 +5867,10 @@
                 "to": {
                     "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 81402,
+                    "startOffset": 81403,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 81659
+                    "endOffset": 81660
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5888,10 +5888,10 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 81664,
+                    "startOffset": 81665,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 81784
+                    "endOffset": 81785
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5909,10 +5909,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 81789,
+                    "startOffset": 81790,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 81911
+                    "endOffset": 81912
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5930,10 +5930,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 81916,
+                    "startOffset": 81917,
                     "endLine": 1058,
                     "endColumn": 12,
-                    "endOffset": 82150
+                    "endOffset": 82151
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5951,10 +5951,10 @@
                 "to": {
                     "startLine": 1059,
                     "startColumn": 4,
-                    "startOffset": 82155,
+                    "startOffset": 82156,
                     "endLine": 1061,
                     "endColumn": 12,
-                    "endOffset": 82361
+                    "endOffset": 82362
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5972,10 +5972,10 @@
                 "to": {
                     "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 82366,
+                    "startOffset": 82367,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 82480
+                    "endOffset": 82481
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5993,10 +5993,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 82485,
+                    "startOffset": 82486,
                     "endLine": 1067,
                     "endColumn": 12,
-                    "endOffset": 82673
+                    "endOffset": 82674
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6014,10 +6014,10 @@
                 "to": {
                     "startLine": 1068,
                     "startColumn": 4,
-                    "startOffset": 82678,
+                    "startOffset": 82679,
                     "endLine": 1074,
                     "endColumn": 12,
-                    "endOffset": 83128
+                    "endOffset": 83129
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6035,10 +6035,10 @@
                 "to": {
                     "startLine": 1075,
                     "startColumn": 4,
-                    "startOffset": 83133,
+                    "startOffset": 83134,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 83309
+                    "endOffset": 83310
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6056,10 +6056,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 83314,
+                    "startOffset": 83315,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 83431
+                    "endOffset": 83432
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6077,10 +6077,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 83436,
+                    "startOffset": 83437,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 83690
+                    "endOffset": 83691
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6098,10 +6098,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 83695,
+                    "startOffset": 83696,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 83803
+                    "endOffset": 83804
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6119,10 +6119,10 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 83808,
+                    "startOffset": 83809,
                     "endLine": 1090,
                     "endColumn": 12,
-                    "endOffset": 83990
+                    "endOffset": 83991
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6140,10 +6140,10 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 83995,
+                    "startOffset": 83996,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 84092
+                    "endOffset": 84093
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6161,10 +6161,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 84097,
+                    "startOffset": 84098,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 84536
+                    "endOffset": 84537
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6182,10 +6182,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 84541,
+                    "startOffset": 84542,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 84660
+                    "endOffset": 84661
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6203,10 +6203,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 84665,
+                    "startOffset": 84666,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 84945
+                    "endOffset": 84946
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6224,10 +6224,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 84950,
+                    "startOffset": 84951,
                     "endLine": 1116,
                     "endColumn": 12,
-                    "endOffset": 85832
+                    "endOffset": 85833
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6245,10 +6245,10 @@
                 "to": {
                     "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 85837,
+                    "startOffset": 85838,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 86126
+                    "endOffset": 86127
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6266,10 +6266,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 86131,
+                    "startOffset": 86132,
                     "endLine": 1131,
                     "endColumn": 12,
-                    "endOffset": 86696
+                    "endOffset": 86697
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6287,10 +6287,10 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 86701,
+                    "startOffset": 86702,
                     "endLine": 1142,
                     "endColumn": 12,
-                    "endOffset": 87428
+                    "endOffset": 87429
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6308,10 +6308,10 @@
                 "to": {
                     "startLine": 1143,
                     "startColumn": 4,
-                    "startOffset": 87433,
+                    "startOffset": 87434,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 87600
+                    "endOffset": 87601
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6329,10 +6329,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 87605,
+                    "startOffset": 87606,
                     "endLine": 1150,
                     "endColumn": 12,
-                    "endOffset": 87936
+                    "endOffset": 87937
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6350,10 +6350,10 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 87941,
+                    "startOffset": 87942,
                     "endLine": 1162,
                     "endColumn": 12,
-                    "endOffset": 88803
+                    "endOffset": 88804
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6371,10 +6371,10 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 88808,
+                    "startOffset": 88809,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 89081
+                    "endOffset": 89082
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6392,10 +6392,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 89086,
+                    "startOffset": 89087,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 91943
+                    "endOffset": 91944
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6413,10 +6413,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 91948,
+                    "startOffset": 91949,
                     "endLine": 1244,
                     "endColumn": 12,
-                    "endOffset": 94945
+                    "endOffset": 94946
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6434,9 +6434,9 @@
                 "to": {
                     "startLine": 1245,
                     "startColumn": 4,
-                    "startOffset": 94950,
+                    "startOffset": 94951,
                     "endColumn": 61,
-                    "endOffset": 95007
+                    "endOffset": 95008
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6453,10 +6453,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 95012,
+                    "startOffset": 95013,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 95637
+                    "endOffset": 95638
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6474,10 +6474,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 95642,
+                    "startOffset": 95643,
                     "endLine": 1264,
                     "endColumn": 12,
-                    "endOffset": 96251
+                    "endOffset": 96252
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6495,9 +6495,9 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 96256,
+                    "startOffset": 96257,
                     "endColumn": 85,
-                    "endOffset": 96337
+                    "endOffset": 96338
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6514,10 +6514,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 96342,
+                    "startOffset": 96343,
                     "endLine": 1267,
                     "endColumn": 12,
-                    "endOffset": 96450
+                    "endOffset": 96451
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6535,10 +6535,10 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 96455,
+                    "startOffset": 96456,
                     "endLine": 1271,
                     "endColumn": 12,
-                    "endOffset": 96679
+                    "endOffset": 96680
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6556,10 +6556,10 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 96684,
+                    "startOffset": 96685,
                     "endLine": 1274,
                     "endColumn": 12,
-                    "endOffset": 96839
+                    "endOffset": 96840
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6577,10 +6577,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 96844,
+                    "startOffset": 96845,
                     "endLine": 1277,
                     "endColumn": 12,
-                    "endOffset": 96991
+                    "endOffset": 96992
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6598,10 +6598,10 @@
                 "to": {
                     "startLine": 1278,
                     "startColumn": 4,
-                    "startOffset": 96996,
+                    "startOffset": 96997,
                     "endLine": 1280,
                     "endColumn": 12,
-                    "endOffset": 97162
+                    "endOffset": 97163
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6619,10 +6619,10 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 97167,
+                    "startOffset": 97168,
                     "endLine": 1283,
                     "endColumn": 12,
-                    "endOffset": 97329
+                    "endOffset": 97330
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6640,10 +6640,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 97334,
+                    "startOffset": 97335,
                     "endLine": 1287,
                     "endColumn": 12,
-                    "endOffset": 97572
+                    "endOffset": 97573
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6661,10 +6661,10 @@
                 "to": {
                     "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 97577,
+                    "startOffset": 97578,
                     "endLine": 1290,
                     "endColumn": 12,
-                    "endOffset": 97742
+                    "endOffset": 97743
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6682,10 +6682,10 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 97747,
+                    "startOffset": 97748,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 97915
+                    "endOffset": 97916
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6703,10 +6703,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 97920,
+                    "startOffset": 97921,
                     "endLine": 1296,
                     "endColumn": 12,
-                    "endOffset": 98086
+                    "endOffset": 98087
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6724,10 +6724,10 @@
                 "to": {
                     "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 98091,
+                    "startOffset": 98092,
                     "endLine": 1300,
                     "endColumn": 12,
-                    "endOffset": 98360
+                    "endOffset": 98361
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6745,10 +6745,10 @@
                 "to": {
                     "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 98365,
+                    "startOffset": 98366,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 98559
+                    "endOffset": 98560
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6766,10 +6766,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 98564,
+                    "startOffset": 98565,
                     "endLine": 1307,
                     "endColumn": 12,
-                    "endOffset": 98764
+                    "endOffset": 98765
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6787,10 +6787,10 @@
                 "to": {
                     "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 98769,
+                    "startOffset": 98770,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 99094
+                    "endOffset": 99095
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6808,9 +6808,9 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99099,
+                    "startOffset": 99100,
                     "endColumn": 83,
-                    "endOffset": 99178
+                    "endOffset": 99179
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6827,9 +6827,9 @@
                 "to": {
                     "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 99183,
+                    "startOffset": 99184,
                     "endColumn": 95,
-                    "endOffset": 99274
+                    "endOffset": 99275
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6846,9 +6846,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 99279,
+                    "startOffset": 99280,
                     "endColumn": 95,
-                    "endOffset": 99370
+                    "endOffset": 99371
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6865,9 +6865,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99375,
+                    "startOffset": 99376,
                     "endColumn": 97,
-                    "endOffset": 99468
+                    "endOffset": 99469
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6884,9 +6884,9 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 99473,
+                    "startOffset": 99474,
                     "endColumn": 99,
-                    "endOffset": 99568
+                    "endOffset": 99569
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6903,9 +6903,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 99573,
+                    "startOffset": 99574,
                     "endColumn": 101,
-                    "endOffset": 99670
+                    "endOffset": 99671
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6922,9 +6922,9 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99675,
+                    "startOffset": 99676,
                     "endColumn": 101,
-                    "endOffset": 99772
+                    "endOffset": 99773
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6941,9 +6941,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99777,
+                    "startOffset": 99778,
                     "endColumn": 101,
-                    "endOffset": 99874
+                    "endOffset": 99875
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6960,9 +6960,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 99879,
+                    "startOffset": 99880,
                     "endColumn": 101,
-                    "endOffset": 99976
+                    "endOffset": 99977
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6979,9 +6979,9 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 99981,
+                    "startOffset": 99982,
                     "endColumn": 101,
-                    "endOffset": 100078
+                    "endOffset": 100079
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6998,9 +6998,9 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 100083,
+                    "startOffset": 100084,
                     "endColumn": 99,
-                    "endOffset": 100178
+                    "endOffset": 100179
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7017,9 +7017,9 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 100183,
+                    "startOffset": 100184,
                     "endColumn": 95,
-                    "endOffset": 100274
+                    "endOffset": 100275
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7036,9 +7036,9 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100279,
+                    "startOffset": 100280,
                     "endColumn": 111,
-                    "endOffset": 100386
+                    "endOffset": 100387
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7055,9 +7055,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100391,
+                    "startOffset": 100392,
                     "endColumn": 128,
-                    "endOffset": 100515
+                    "endOffset": 100516
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7074,9 +7074,9 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100520,
+                    "startOffset": 100521,
                     "endColumn": 122,
-                    "endOffset": 100638
+                    "endOffset": 100639
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7093,10 +7093,10 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 100643,
+                    "startOffset": 100644,
                     "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 100792
+                    "endOffset": 100793
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7114,10 +7114,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 100797,
+                    "startOffset": 100798,
                     "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 100946
+                    "endOffset": 100947
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7135,9 +7135,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100951,
+                    "startOffset": 100952,
                     "endColumn": 97,
-                    "endOffset": 101044
+                    "endOffset": 101045
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7154,9 +7154,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101049,
+                    "startOffset": 101050,
                     "endColumn": 113,
-                    "endOffset": 101158
+                    "endOffset": 101159
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7173,9 +7173,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101163,
+                    "startOffset": 101164,
                     "endColumn": 93,
-                    "endOffset": 101252
+                    "endOffset": 101253
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7192,10 +7192,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101257,
+                    "startOffset": 101258,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 101392
+                    "endOffset": 101393
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7213,10 +7213,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101397,
+                    "startOffset": 101398,
                     "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 101526
+                    "endOffset": 101527
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7234,9 +7234,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101531,
+                    "startOffset": 101532,
                     "endColumn": 95,
-                    "endOffset": 101622
+                    "endOffset": 101623
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7253,9 +7253,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 101627,
+                    "startOffset": 101628,
                     "endColumn": 111,
-                    "endOffset": 101734
+                    "endOffset": 101735
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7272,9 +7272,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101739,
+                    "startOffset": 101740,
                     "endColumn": 99,
-                    "endOffset": 101834
+                    "endOffset": 101835
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7291,9 +7291,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 101839,
+                    "startOffset": 101840,
                     "endColumn": 115,
-                    "endOffset": 101950
+                    "endOffset": 101951
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7310,9 +7310,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 101955,
+                    "startOffset": 101956,
                     "endColumn": 95,
-                    "endOffset": 102046
+                    "endOffset": 102047
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7329,9 +7329,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102051,
+                    "startOffset": 102052,
                     "endColumn": 111,
-                    "endOffset": 102158
+                    "endOffset": 102159
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7348,10 +7348,10 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 102163,
+                    "startOffset": 102164,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 102298
+                    "endOffset": 102299
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7369,9 +7369,9 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102303,
+                    "startOffset": 102304,
                     "endColumn": 135,
-                    "endOffset": 102434
+                    "endOffset": 102435
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7388,10 +7388,10 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102439,
+                    "startOffset": 102440,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 102598
+                    "endOffset": 102599
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7409,9 +7409,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 102603,
+                    "startOffset": 102604,
                     "endColumn": 129,
-                    "endOffset": 102728
+                    "endOffset": 102729
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7428,10 +7428,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102733,
+                    "startOffset": 102734,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 102886
+                    "endOffset": 102887
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7449,10 +7449,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 102891,
+                    "startOffset": 102892,
                     "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 103036
+                    "endOffset": 103037
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7470,9 +7470,9 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 103041,
+                    "startOffset": 103042,
                     "endColumn": 140,
-                    "endOffset": 103177
+                    "endOffset": 103178
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7489,10 +7489,10 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 103182,
+                    "startOffset": 103183,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 103321
+                    "endOffset": 103322
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7510,9 +7510,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103326,
+                    "startOffset": 103327,
                     "endColumn": 134,
-                    "endOffset": 103456
+                    "endOffset": 103457
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7529,9 +7529,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103461,
+                    "startOffset": 103462,
                     "endColumn": 111,
-                    "endOffset": 103568
+                    "endOffset": 103569
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7548,9 +7548,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103573,
+                    "startOffset": 103574,
                     "endColumn": 127,
-                    "endOffset": 103696
+                    "endOffset": 103697
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7567,10 +7567,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103701,
+                    "startOffset": 103702,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 103832
+                    "endOffset": 103833
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7588,10 +7588,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103837,
+                    "startOffset": 103838,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 103974
+                    "endOffset": 103975
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7609,10 +7609,10 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 103979,
+                    "startOffset": 103980,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 104116
+                    "endOffset": 104117
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7630,9 +7630,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 104121,
+                    "startOffset": 104122,
                     "endColumn": 111,
-                    "endOffset": 104228
+                    "endOffset": 104229
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7649,9 +7649,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104233,
+                    "startOffset": 104234,
                     "endColumn": 139,
-                    "endOffset": 104368
+                    "endOffset": 104369
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7668,9 +7668,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104373,
+                    "startOffset": 104374,
                     "endColumn": 67,
-                    "endOffset": 104436
+                    "endOffset": 104437
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7687,9 +7687,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104441,
+                    "startOffset": 104442,
                     "endColumn": 72,
-                    "endOffset": 104509
+                    "endOffset": 104510
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7706,9 +7706,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 104514,
+                    "startOffset": 104515,
                     "endColumn": 73,
-                    "endOffset": 104583
+                    "endOffset": 104584
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7725,9 +7725,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104588,
+                    "startOffset": 104589,
                     "endColumn": 72,
-                    "endOffset": 104656
+                    "endOffset": 104657
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7744,9 +7744,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104661,
+                    "startOffset": 104662,
                     "endColumn": 73,
-                    "endOffset": 104730
+                    "endOffset": 104731
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7763,10 +7763,10 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104735,
+                    "startOffset": 104736,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 104876
+                    "endOffset": 104877
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7784,10 +7784,10 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 104881,
+                    "startOffset": 104882,
                     "endLine": 1376,
                     "endColumn": 12,
-                    "endOffset": 105020
+                    "endOffset": 105021
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7805,10 +7805,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 105025,
+                    "startOffset": 105026,
                     "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 105158
+                    "endOffset": 105159
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7826,9 +7826,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 105163,
+                    "startOffset": 105164,
                     "endColumn": 65,
-                    "endOffset": 105224
+                    "endOffset": 105225
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7845,9 +7845,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105229,
+                    "startOffset": 105230,
                     "endColumn": 89,
-                    "endOffset": 105314
+                    "endOffset": 105315
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7864,9 +7864,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105319,
+                    "startOffset": 105320,
                     "endColumn": 79,
-                    "endOffset": 105394
+                    "endOffset": 105395
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7883,9 +7883,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105399,
+                    "startOffset": 105400,
                     "endColumn": 91,
-                    "endOffset": 105486
+                    "endOffset": 105487
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7902,9 +7902,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105491,
+                    "startOffset": 105492,
                     "endColumn": 97,
-                    "endOffset": 105584
+                    "endOffset": 105585
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7921,10 +7921,10 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105589,
+                    "startOffset": 105590,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 105694
+                    "endOffset": 105695
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7942,9 +7942,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105699,
+                    "startOffset": 105700,
                     "endColumn": 77,
-                    "endOffset": 105772
+                    "endOffset": 105773
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7961,9 +7961,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 105777,
+                    "startOffset": 105778,
                     "endColumn": 105,
-                    "endOffset": 105878
+                    "endOffset": 105879
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7980,9 +7980,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 105883,
+                    "startOffset": 105884,
                     "endColumn": 91,
-                    "endOffset": 105970
+                    "endOffset": 105971
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7999,9 +7999,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105975,
+                    "startOffset": 105976,
                     "endColumn": 103,
-                    "endOffset": 106074
+                    "endOffset": 106075
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8018,9 +8018,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106079,
+                    "startOffset": 106080,
                     "endColumn": 109,
-                    "endOffset": 106184
+                    "endOffset": 106185
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8037,10 +8037,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106189,
+                    "startOffset": 106190,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 106306
+                    "endOffset": 106307
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8058,10 +8058,10 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106311,
+                    "startOffset": 106312,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 106469
+                    "endOffset": 106470
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8079,10 +8079,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106474,
+                    "startOffset": 106475,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 106626
+                    "endOffset": 106627
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8100,9 +8100,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 106631,
+                    "startOffset": 106632,
                     "endColumn": 79,
-                    "endOffset": 106706
+                    "endOffset": 106707
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8119,9 +8119,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 106711,
+                    "startOffset": 106712,
                     "endColumn": 99,
-                    "endOffset": 106806
+                    "endOffset": 106807
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8138,9 +8138,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 106811,
+                    "startOffset": 106812,
                     "endColumn": 89,
-                    "endOffset": 106896
+                    "endOffset": 106897
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8157,9 +8157,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106901,
+                    "startOffset": 106902,
                     "endColumn": 109,
-                    "endOffset": 107006
+                    "endOffset": 107007
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8176,9 +8176,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107011,
+                    "startOffset": 107012,
                     "endColumn": 91,
-                    "endOffset": 107098
+                    "endOffset": 107099
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8195,10 +8195,10 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107103,
+                    "startOffset": 107104,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 107198
+                    "endOffset": 107199
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8216,10 +8216,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107203,
+                    "startOffset": 107204,
                     "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 107310
+                    "endOffset": 107311
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8237,10 +8237,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107315,
+                    "startOffset": 107316,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 107424
+                    "endOffset": 107425
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8258,10 +8258,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107429,
+                    "startOffset": 107430,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 107540
+                    "endOffset": 107541
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8279,10 +8279,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 107545,
+                    "startOffset": 107546,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 107656
+                    "endOffset": 107657
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8300,9 +8300,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 107661,
+                    "startOffset": 107662,
                     "endColumn": 93,
-                    "endOffset": 107750
+                    "endOffset": 107751
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8319,9 +8319,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 107755,
+                    "startOffset": 107756,
                     "endColumn": 113,
-                    "endOffset": 107864
+                    "endOffset": 107865
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8338,9 +8338,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107869,
+                    "startOffset": 107870,
                     "endColumn": 111,
-                    "endOffset": 107976
+                    "endOffset": 107977
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8357,10 +8357,10 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 107981,
+                    "startOffset": 107982,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 108078
+                    "endOffset": 108079
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8378,10 +8378,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 108083,
+                    "startOffset": 108084,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 108198
+                    "endOffset": 108199
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8399,10 +8399,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108203,
+                    "startOffset": 108204,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 108320
+                    "endOffset": 108321
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8420,9 +8420,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108325,
+                    "startOffset": 108326,
                     "endColumn": 81,
-                    "endOffset": 108402
+                    "endOffset": 108403
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8439,9 +8439,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 108407,
+                    "startOffset": 108408,
                     "endColumn": 103,
-                    "endOffset": 108506
+                    "endOffset": 108507
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8458,9 +8458,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108511,
+                    "startOffset": 108512,
                     "endColumn": 119,
-                    "endOffset": 108626
+                    "endOffset": 108627
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8477,9 +8477,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 108631,
+                    "startOffset": 108632,
                     "endColumn": 125,
-                    "endOffset": 108752
+                    "endOffset": 108753
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8496,9 +8496,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108757,
+                    "startOffset": 108758,
                     "endColumn": 97,
-                    "endOffset": 108850
+                    "endOffset": 108851
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8515,9 +8515,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 108855,
+                    "startOffset": 108856,
                     "endColumn": 93,
-                    "endOffset": 108944
+                    "endOffset": 108945
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8534,9 +8534,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108949,
+                    "startOffset": 108950,
                     "endColumn": 87,
-                    "endOffset": 109032
+                    "endOffset": 109033
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8553,9 +8553,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109037,
+                    "startOffset": 109038,
                     "endColumn": 111,
-                    "endOffset": 109144
+                    "endOffset": 109145
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8572,9 +8572,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109149,
+                    "startOffset": 109150,
                     "endColumn": 115,
-                    "endOffset": 109260
+                    "endOffset": 109261
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8591,9 +8591,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 109265,
+                    "startOffset": 109266,
                     "endColumn": 121,
-                    "endOffset": 109382
+                    "endOffset": 109383
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8610,9 +8610,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109387,
+                    "startOffset": 109388,
                     "endColumn": 111,
-                    "endOffset": 109494
+                    "endOffset": 109495
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8629,10 +8629,10 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109499,
+                    "startOffset": 109500,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 109669
+                    "endOffset": 109670
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8650,9 +8650,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109674,
+                    "startOffset": 109675,
                     "endColumn": 115,
-                    "endOffset": 109785
+                    "endOffset": 109786
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8669,9 +8669,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109790,
+                    "startOffset": 109791,
                     "endColumn": 85,
-                    "endOffset": 109871
+                    "endOffset": 109872
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8688,9 +8688,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109876,
+                    "startOffset": 109877,
                     "endColumn": 91,
-                    "endOffset": 109963
+                    "endOffset": 109964
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8707,10 +8707,10 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109968,
+                    "startOffset": 109969,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 110075
+                    "endOffset": 110076
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8728,10 +8728,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 110080,
+                    "startOffset": 110081,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 110199
+                    "endOffset": 110200
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8749,9 +8749,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110204,
+                    "startOffset": 110205,
                     "endColumn": 66,
-                    "endOffset": 110266
+                    "endOffset": 110267
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8768,10 +8768,10 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110271,
+                    "startOffset": 110272,
                     "endLine": 1448,
                     "endColumn": 12,
-                    "endOffset": 110392
+                    "endOffset": 110393
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8789,9 +8789,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 110397,
+                    "startOffset": 110398,
                     "endColumn": 67,
-                    "endOffset": 110460
+                    "endOffset": 110461
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8808,10 +8808,10 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 110465,
+                    "startOffset": 110466,
                     "endLine": 1451,
                     "endColumn": 12,
-                    "endOffset": 110588
+                    "endOffset": 110589
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8829,10 +8829,10 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 110593,
+                    "startOffset": 110594,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 110732
+                    "endOffset": 110733
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8850,10 +8850,10 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 110737,
+                    "startOffset": 110738,
                     "endLine": 1455,
                     "endColumn": 12,
-                    "endOffset": 110860
+                    "endOffset": 110861
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8871,9 +8871,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 110865,
+                    "startOffset": 110866,
                     "endColumn": 68,
-                    "endOffset": 110929
+                    "endOffset": 110930
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8890,9 +8890,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 110934,
+                    "startOffset": 110935,
                     "endColumn": 94,
-                    "endOffset": 111024
+                    "endOffset": 111025
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8909,9 +8909,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111029,
+                    "startOffset": 111030,
                     "endColumn": 114,
-                    "endOffset": 111139
+                    "endOffset": 111140
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8928,9 +8928,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 111144,
+                    "startOffset": 111145,
                     "endColumn": 112,
-                    "endOffset": 111252
+                    "endOffset": 111253
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8947,9 +8947,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111257,
+                    "startOffset": 111258,
                     "endColumn": 98,
-                    "endOffset": 111351
+                    "endOffset": 111352
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8966,9 +8966,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111356,
+                    "startOffset": 111357,
                     "endColumn": 108,
-                    "endOffset": 111460
+                    "endOffset": 111461
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8985,9 +8985,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 111465,
+                    "startOffset": 111466,
                     "endColumn": 110,
-                    "endOffset": 111571
+                    "endOffset": 111572
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9004,9 +9004,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 111576,
+                    "startOffset": 111577,
                     "endColumn": 110,
-                    "endOffset": 111682
+                    "endOffset": 111683
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9023,9 +9023,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 111687,
+                    "startOffset": 111688,
                     "endColumn": 100,
-                    "endOffset": 111783
+                    "endOffset": 111784
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9042,9 +9042,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 111788,
+                    "startOffset": 111789,
                     "endColumn": 104,
-                    "endOffset": 111888
+                    "endOffset": 111889
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9061,10 +9061,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 111893,
+                    "startOffset": 111894,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 112000
+                    "endOffset": 112001
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9082,10 +9082,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 112005,
+                    "startOffset": 112006,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 112130
+                    "endOffset": 112131
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9103,9 +9103,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112135,
+                    "startOffset": 112136,
                     "endColumn": 90,
-                    "endOffset": 112221
+                    "endOffset": 112222
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9122,9 +9122,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112226,
+                    "startOffset": 112227,
                     "endColumn": 122,
-                    "endOffset": 112344
+                    "endOffset": 112345
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9141,10 +9141,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112349,
+                    "startOffset": 112350,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 112456
+                    "endOffset": 112457
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9162,9 +9162,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 112461,
+                    "startOffset": 112462,
                     "endColumn": 85,
-                    "endOffset": 112542
+                    "endOffset": 112543
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9181,9 +9181,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 112547,
+                    "startOffset": 112548,
                     "endColumn": 103,
-                    "endOffset": 112646
+                    "endOffset": 112647
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9200,10 +9200,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 112651,
+                    "startOffset": 112652,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 112754
+                    "endOffset": 112755
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9221,10 +9221,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 112759,
+                    "startOffset": 112760,
                     "endLine": 1479,
                     "endColumn": 12,
-                    "endOffset": 112854
+                    "endOffset": 112855
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9242,10 +9242,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 112859,
+                    "startOffset": 112860,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 112972
+                    "endOffset": 112973
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9263,10 +9263,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 112977,
+                    "startOffset": 112978,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 113076
+                    "endOffset": 113077
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9284,10 +9284,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 113081,
+                    "startOffset": 113082,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 113180
+                    "endOffset": 113181
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9305,10 +9305,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113185,
+                    "startOffset": 113186,
                     "endLine": 1487,
                     "endColumn": 12,
-                    "endOffset": 113306
+                    "endOffset": 113307
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9326,9 +9326,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 113311,
+                    "startOffset": 113312,
                     "endColumn": 87,
-                    "endOffset": 113394
+                    "endOffset": 113395
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9345,9 +9345,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 113399,
+                    "startOffset": 113400,
                     "endColumn": 89,
-                    "endOffset": 113484
+                    "endOffset": 113485
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9364,9 +9364,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 113489,
+                    "startOffset": 113490,
                     "endColumn": 109,
-                    "endOffset": 113594
+                    "endOffset": 113595
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9383,9 +9383,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 113599,
+                    "startOffset": 113600,
                     "endColumn": 83,
-                    "endOffset": 113678
+                    "endOffset": 113679
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9402,9 +9402,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 113683,
+                    "startOffset": 113684,
                     "endColumn": 83,
-                    "endOffset": 113762
+                    "endOffset": 113763
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9421,9 +9421,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 113767,
+                    "startOffset": 113768,
                     "endColumn": 53,
-                    "endOffset": 113816
+                    "endOffset": 113817
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9440,9 +9440,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 113821,
+                    "startOffset": 113822,
                     "endColumn": 63,
-                    "endOffset": 113880
+                    "endOffset": 113881
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9459,9 +9459,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 113885,
+                    "startOffset": 113886,
                     "endColumn": 105,
-                    "endOffset": 113986
+                    "endOffset": 113987
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9478,9 +9478,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 113991,
+                    "startOffset": 113992,
                     "endColumn": 109,
-                    "endOffset": 114096
+                    "endOffset": 114097
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9497,9 +9497,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114101,
+                    "startOffset": 114102,
                     "endColumn": 83,
-                    "endOffset": 114180
+                    "endOffset": 114181
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9516,9 +9516,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 114185,
+                    "startOffset": 114186,
                     "endColumn": 119,
-                    "endOffset": 114300
+                    "endOffset": 114301
                 },
                 "from": {
                     "file": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",

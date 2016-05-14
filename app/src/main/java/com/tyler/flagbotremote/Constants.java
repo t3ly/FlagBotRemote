@@ -21,4 +21,6 @@ public interface Constants {
     public static final int MOVE_STOP      = 15;
     public static final int FLAG_START     = 16;
     public static final int FLAG_STOP      = 17;
+    public static final int FLAG_LEFT      = 18;
+    public static final int FLAG_RIGHT     = 19;
 }
