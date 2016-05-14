@@ -42,11 +42,11 @@ public class ControllerActivity extends Activity{
                 switch(msg.what){
                     case Constants.BLUETOOTH_CONNECT:
                         if(msg.arg1 == Constants.CONNECTION_SUCCESS){
-                            Toast.makeText(getApplicationContext(), "Connection worked!", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), "ESTA LIT!", Toast.LENGTH_SHORT).show();
                             System.out.println("Handler is working");
                         }
                         else if(msg.arg1 == Constants.CONNECTION_FAILED){
-                            Toast.makeText(getApplicationContext(), "Connection failed", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), "N'EST PAS LIT!", Toast.LENGTH_SHORT).show();
                         }
                 }
             }
@@ -66,6 +66,9 @@ public class ControllerActivity extends Activity{
         fStop = (ImageButton)findViewById(R.id.flagStop);
     }
 
+		/*
+		 * Set Touch Listeners for each button
+	   */	 
     private void startDPadlisteners() {
 
         bUp.setOnTouchListener(new View.OnTouchListener() {
@@ -134,11 +137,36 @@ public class ControllerActivity extends Activity{
 
         fGo.setOnTouchListener(new View.OnTouchListener() {
             @Override
-            public boolean onTouch
+            public boolean onTouch(View v, MotionEvent event) {
+                switch (event.getAction()) {
+                    case MotionEvent.ACTION_DOWN:
+                        controller.flagStart();
+                        break;
+                }
 
-        }
+                return true;
+            }
+        });
+
+        fStop.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                switch (event.getAction()) {
+                    case MotionEvent.ACTION_DOWN:
+                        controller.flagStop();
+                        break;
+                }
+
+                return true;
+            }
+        });
+
     }
 
+		/*
+		 * Connects to specified bluetooth device which should be connected to
+		 * Arduino
+		 */	 
     private synchronized void connect(BluetoothDevice tmp){
         Toast.makeText(getApplicationContext(), "Connecting...", Toast.LENGTH_LONG).show();
         FlagbotConnectThread connectDrawbot = new FlagbotConnectThread(tmp, handler);

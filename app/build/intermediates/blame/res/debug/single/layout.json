@@ -88,6 +88,10 @@
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/layout/activity_controller.xml",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/layout/activity_controller.xml"
+    },
+    {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
     },
@@ -144,11 +148,11 @@
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
     }
 ]

@@ -14,40 +14,47 @@
         android:layout_centerHorizontal="true"
         android:weightSum="1">
 
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="50dp" />
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_weight="0.3"
+            android:layout_weight="0"
             android:weightSum="1">
 
             <ImageButton
-                android:src="@drawable/flagStart"
+                android:src="@drawable/flagstart"
                 android:layout_width="40dp"
                 android:layout_height="150dp"
                 android:scaleType="centerInside"
                 android:id="@+id/flagStart"
                 android:layout_gravity="center_vertical"
                 android:layout_weight="0.5"
-                android:background="#590000" />
+                android:background="#590000"
+                android:adjustViewBounds="false"
+                android:contentDescription="@string/flagon" />
 
             <ImageButton
-                android:src="@drawable/flagStop"
+                android:src="@drawable/flagstop"
                 android:layout_width="40dp"
                 android:layout_height="150dp"
                 android:scaleType="centerInside"
                 android:id="@+id/flagStop"
                 android:layout_gravity="center_vertical"
                 android:layout_weight="0.5"
-                android:background="#590000" />
+                android:background="#590000"
+                android:contentDescription="@string/flagogg" />
         </LinearLayout>
 
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:layout_weight="0.3">
+            android:layout_weight="0.5">
 
             <ImageButton
                 android:src="@drawable/dpadforward"
@@ -90,35 +97,12 @@
 
         </RelativeLayout>
 
-        <RelativeLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal">
-
-        </RelativeLayout>
-
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="New Button"
-            android:id="@+id/button"
-            android:layout_centerVertical="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="A Xi Pledge Class Production"
-            android:id="@+id/textView"
-            android:layout_gravity="center"
-            android:textColor="#e5cf54"
-            android:layout_weight="0.13"
-            android:textAlignment="gravity" />
+            android:text="@string/runPath"
+            android:id="@+id/button" />
 
     </LinearLayout>
+
 </RelativeLayout>

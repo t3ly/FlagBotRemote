@@ -2,6 +2,8 @@ package com.tyler.flagbotremote;
 
 /**
  * Created by Tyler on 5/8/16.
+ * Help from Lambda class
+ * MUST MATCH UP WITH CONSTANTS IN ARDUINO CODE!!!!
  */
 public interface Constants {
 

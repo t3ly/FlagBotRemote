@@ -3,7 +3,6 @@
     package="com.tyler.flagbotremote">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
-    <uses-permission android:name="android.permission.BLUETOOTH" />
 
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
@@ -20,6 +19,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ControllerActivity"
+            android:label="@string/title_activity_controller"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+        />
     </application>
 
 </manifest>

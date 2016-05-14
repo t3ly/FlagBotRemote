@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FlagbotRemote</string>
+    <string name="xipledgeclassproduction">A Xi Pledge Class Production</string>
+    <string name="flagogg">flagoff</string>
+    <string name="flagon">flagon</string>
+    <string name="runPath">Run path</string>
+    <string name="title_activity_controller">ControllerActivity</string>
 </resources>

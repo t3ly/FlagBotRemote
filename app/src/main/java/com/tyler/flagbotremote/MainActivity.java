@@ -38,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
         btAdapter = BluetoothAdapter.getDefaultAdapter();
     }
 
+		/*
+		 * Called by Bluetooth On button
+		 */
     public void on(View view){
         if(!btAdapter.isEnabled()){
             Intent turnOn = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
@@ -50,11 +53,18 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+		/*
+		 * Called by Bluetooth Off button	 
+		 */
     public void off(View view){
         btAdapter.disable();
         Toast.makeText(getApplicationContext(), "Bluetooth Off", Toast.LENGTH_LONG).show();
     }
 
+		/*
+		 * Called by List Bluetooth Devices button
+		 * Generates new Intent when bluetooth device is selected
+		 */
     public void list(View view){
         //Assign set reference to set of bluetooth devices connected to adapter
         pairedDevices = btAdapter.getBondedDevices();

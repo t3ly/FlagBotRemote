@@ -8,6 +8,10 @@
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/dpadbackward.png",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/dpadbackward.png"
+    },
+    {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
     },
@@ -22,6 +26,10 @@
     {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/dpadright.png",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/dpadright.png"
     },
     {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -44,6 +52,14 @@
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/flagstart.jpg",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/flagstart.jpg"
+    },
+    {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/dpadforward.png",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/dpadforward.png"
+    },
+    {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
@@ -54,6 +70,10 @@
     {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/dpadleft.png",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/dpadleft.png"
     },
     {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
@@ -94,5 +114,9 @@
     {
         "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
         "source": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Tyler/Documents/FlagbotRemote/app/build/intermediates/res/merged/debug/drawable/flagstop.jpg",
+        "source": "/Users/Tyler/Documents/FlagbotRemote/app/src/main/res/drawable/flagstop.jpg"
     }
 ]
